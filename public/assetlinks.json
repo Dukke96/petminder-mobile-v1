@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.vercel.petminder_mobile_v1.twa",
+        "sha256_cert_fingerprints": ["C7:8E:EC:C2:0A:B2:8E:79:8F:61:54:CE:C0:2D:08:D7:10:15:7F:2B:04:F5:E6:F6:BC:B6:4E:E7:5A:1C:4F:D4"]
+      }
+    }]
